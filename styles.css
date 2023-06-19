@@ -8,7 +8,7 @@ p:first-child {
   
 }
 p:last-child {
- color: rgb(255, 0, 0);
+ color: rgb(255, 255, 255);
 }
 li:nth-child(2) {
   background:gray;
